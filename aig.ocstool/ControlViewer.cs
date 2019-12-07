@@ -69,6 +69,8 @@ namespace aig.ocstool
 
             //HtmlElementCollection forms3 = all.GetElementsByName("btnG");
             //forms3[0].InvokeMember("click"); // ボタンのクリック
+
+            // GIT Update
         }
 
         private void fnc_SetDataGridView()
